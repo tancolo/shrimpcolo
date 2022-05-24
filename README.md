@@ -13,7 +13,7 @@
 <img align="left" alt="Kotlin" src="https://img.icons8.com/color/36/000000/kotlin.png"/>
 <img align="left" alt="C" src="https://img.icons8.com/color/36/000000/c.png"/>
 <img align="left" alt="C++" src="https://img.icons8.com/color/36/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="Android" src="https://img.icons8.com/dusk/36/000000/android.png"/>
+<img align="left" alt="Android" src="https://img.icons8.com/color/36/000000/android-os.png"/>
 <img align="left" alt="Android Jetpack" src="https://img.icons8.com/color/36/000000/jetpack-joyride.png"/>
 <img align="left" alt="SQL" src="https://img.icons8.com/wired/36/000000/sql.png"/>
 <img align="left" alt="Angular" src="https://img.icons8.com/color/36/000000/angularjs.png"/>

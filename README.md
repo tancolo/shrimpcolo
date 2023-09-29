@@ -2,7 +2,7 @@
 
 ## I'm an Android Developer
 - 🌱 I’m currently learning everything
-- 🔭 I'm looking for a job overseas
+- 🔭 I'm looking for a job
 - 🎯 Learn, Contribute and Grow
 
 <br />
